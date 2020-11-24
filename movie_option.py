@@ -1,4 +1,4 @@
-# Media Directory Batch File Editor v0.03 - Movie Option
+# Media Directory Batch File Editor v1.0 - Movie Option
 # Movie Option: Allows user to change the name of a single movie file 
 
 def movie_rename():
