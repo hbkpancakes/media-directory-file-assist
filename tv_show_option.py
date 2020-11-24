@@ -1,11 +1,11 @@
-# Media Directory Batch File Editor v0.03 - TV Show Option
+# Media Directory File Assist v1.0 - TV Show Option
 # TV Show Option: Allows user to change the name of a folder of TV Show Episodes
 
 def tv_show_rename():
     import os, getpass
 
     # Welcome message
-    print("\nDirectory File changer - TV Shows\n")
+    print("\nMedia Directory File Assist - TV Shows\n")
     print("Please consult the README if you have any questions.\n")
 
     # Start program (while loop for continous loop through program if user chooses to run again)

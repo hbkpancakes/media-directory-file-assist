@@ -1,11 +1,11 @@
-# Media Directory Batch File Editor v1.0 - Movie Option
+# Media Directory File Assist v1.0 - Movie Option
 # Movie Option: Allows user to change the name of a single movie file 
 
 def movie_rename():
     import os, getpass
 
     # Welcome message
-    print("\nDirectory File changer - Movies\n")
+    print("\nMedia Directory File Assist - Movies\n")
     print("Please consult the README if you have any questions.\n")
 
     # Start program (while loop for continous loop through program if user chooses to run again)
