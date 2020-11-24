@@ -1,4 +1,4 @@
-# Media Directory Batch File Editor v0.03
+# Media Directory Batch File Editor v1.0
 # Edits file names in directory for easy import to media server
 
 import os, getpass, movie_option, tv_show_option
