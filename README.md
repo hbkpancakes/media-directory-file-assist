@@ -7,19 +7,7 @@ hbkpancakes@protonmail.com
 
 ------------------------------------
 
-LICENSE:
-
-BY DOWNLOADING, INSTALLING, AND USING MEDIA DIRECTORY FILE ASSIST YOU AGREE TO THE FOLLOWING:
-
-1. hbk Pancakes and Media Directory File Assist are not responsible for any damage done to your files, system, physical hardware, or self either before, during, or after using this program
-2. Any reproduction or re-distribution of this program requires credit to be given to hbk Pancakes, with a link to https://twitter.com/hbkpancakes AND/OR https://github.com/hbkpancakes
-3. You will not sell Media Directory File Changer or its code, or otherwise make any other forms of monetary gain. Any questions on monetization of this program or source code, reach out to hbk Pancakes by means of Twitter or Email (listed above)
-
-------------------------------------
-
-HELP:
-
-Media Directory File Assist is a lightweight, command line-esque program designed to help rename media files (specifically, TV Shows and Movies), so Plex can automatically update the meta data (show/movie cover art, ratings, decriptions, episode names, etc).
+Media Directory File Assist is a lightweight, command line-esque program designed to help rename media files (specifically, TV Shows and Movies), so Plex can automatically update the meta data (show/movie cover art, ratings, descriptions, episode names, etc).
 
 The program will guide you through the steps, but this READ ME can also be used as a guide to navigate with as you use the program.
 
