@@ -7,6 +7,10 @@ hbkpancakes@protonmail.com
 
 ------------------------------------
 
+MEDIA DIRECTORY FILE ASSIST IS STILL IN VERY EARLY STAGES! This is a working release, however, bugs may still occur! Please let me know if you experience any issues!
+
+------------------------------------
+
 Media Directory File Assist is a lightweight, command line-esque program designed to help rename media files (specifically, TV Shows and Movies), so Plex can automatically update the meta data (show/movie cover art, ratings, descriptions, episode names, etc).
 
 The program will guide you through the steps, but this READ ME can also be used as a guide to navigate with as you use the program.
