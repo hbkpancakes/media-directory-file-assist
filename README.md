@@ -42,7 +42,7 @@ The program will guide you through the steps, but this READ ME can also be used 
 
 (user): "9"		          
 
-  + Your files will then be renamed as specified
+    + Your files will then be renamed as specified
 
 - Choosing Option 2 will run you through the Movie process. This is a bit more simple than the TV Episode process, in the sense that, there is only one option with 2 prompts: specifying movie name, and year of release.
 
