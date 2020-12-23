@@ -22,7 +22,7 @@ The program will guide you through the steps, but this READ ME can also be used 
   + MULTI EPISODE RENAMING: "Multi Episodes" are TV episodes that are joined together, for example, Episode 1 and 2 are in one.mp4 file.
   + If you declare "Y" to "multi episodes" you will be able to specify if all episodes are multi episodes for a fast rename, or specify how many "multi episodes" there are.
   + If, for example, there are 2 .mp4 files that are "multi" ("Episode 1, Episode 2" is one file, "Episode 8, Episode 9" is another), you will type "2" when you are asked "How many multi episodes?"
-+ Next, you will have prompts to specify the episode numbers that are joined. In the above example, when asked "Which episodes are joined?", your input will go like this: 
+  + Next, you will have prompts to specify the episode numbers that are joined. In the above example, when asked "Which episodes are joined?", your input will go like this: 
 
 (MDFA): "Which episodes are joined?"
 
@@ -42,7 +42,7 @@ The program will guide you through the steps, but this READ ME can also be used 
 
 (user): "9"		          
 
-+ Your files will then be renamed as specified
+  + Your files will then be renamed as specified
 
 - Choosing Option 2 will run you through the Movie process. This is a bit more simple than the TV Episode process, in the sense that, there is only one option with 2 prompts: specifying movie name, and year of release.
 
