@@ -22,7 +22,7 @@ Once you open the program, you will be greeted to the main menu. Here, you will 
   + If you declare "Y" to "multi episodes" you will be able to specify if all episodes are multi episodes for a fast rename, or specify how many "multi episodes" there are.
   + If, for example, there are 2 .mp4 files that are "multi" ("Episode 1, Episode 2" is one file, "Episode 8, Episode 9" is another), you will type "2" when you are asked "How many multi episodes?"
 
--Choosing Option 2 will run you through the Movie process. This is a bit more simple than the TV Episode process, in the sense that, there is only one option with 2 prompts: specifying movie name, and year of release.
+- Choosing Option 2 will run you through the Movie process. This is a bit more simple than the TV Episode process, in the sense that, there is only one option with 2 prompts: specifying movie name, and year of release.
 
 - If you ever make a mistake, you can always revert your changes by responding "Y" in the "Would you like to save your changes?" prompt
 
