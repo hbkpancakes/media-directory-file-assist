@@ -1,5 +1,5 @@
 # Media Directory File Assist, a bulk media file renamer by hbk Pancakes
-BETA v1.0
+BETA v0.8
 
 https://twitter.com/hbkpancakes | hbkpancakes@protonmail.com
 
