@@ -1,4 +1,4 @@
-# Media Directory File Assist (version 1), a bulk media file renamer by hbk Pancakes
+# Media Directory File Assist, a bulk media file renamer by hbk Pancakes
 https://twitter.com/hbkpancakes | hbkpancakes@protonmail.com
 
 Media Directory File Assist is a script designed to help rename media files (specifically, TV Shows and Movies), so that Plex can automatically update the meta data (show/movie cover art, ratings, descriptions, episode names, etc).
