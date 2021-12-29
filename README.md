@@ -1,35 +1,30 @@
-# Media Directory File Assist, a bulk media file renamer by hbk Pancakes
-BETA v0.8
-
+# Media Directory File Assist (version 1), a bulk media file renamer by hbk Pancakes
 https://twitter.com/hbkpancakes | hbkpancakes@protonmail.com
 
-
-Media Directory File Assist is a lightweight, command line-esque program designed to help rename media files (specifically, TV Shows and Movies), so Plex can automatically update the meta data (show/movie cover art, ratings, descriptions, episode names, etc).
+Media Directory File Assist is a script designed to help rename media files (specifically, TV Shows and Movies), so that Plex can automatically update the meta data (show/movie cover art, ratings, descriptions, episode names, etc).
 
 # Requirements
 - Python 3.x
 - Windows 10
 
+# Terminology
+- Multi Files (or "Multi Episodes"): TV episodes that are joined together, for example, Episode 1 and 2 are in one.mp4 file (ShowName-E01E02)
+
 # Setup and Instructions
+Setup is fairly simple. Just run the script and you are good to go! Once you run it, you will be greeted to the main menu:
 
-Setup is fairly simple, just run and you're set. Here's what you need to know:
+- Option 1: The TV Episode process. There are multiple choices you can make within this option:
+  + Standard episode renaming: 
+    + The files in your specified folder will instantly change
+  + Multi episode renaming:
+    + When declaring "Y" to "Are there multi episodes?", you will be asked to specify if all episodes are multi episodes or not
+    + If only some episodes are joined, you can simply enter the number of "multi episodes" there are
+    + The next prompt correspond to the number of "multi episodes" you decalred. You will be asked for the "First" and "Second" episodes of each joined file
+- Option 2: The Movie process. There is only one option with 2 prompts: specifying movie name and year of release
 
-Once you open the program, you will be greeted to the main menu. Here, you will be able to select which option you want to run (choose between renaming a season of a TV show, or a movie)
+NOTE: If you ever make a mistake, you can always revert your changes by responding "N" to the "Would you like to save changes?" prompt
 
-- Choosing Option 1 will run you through the TV Episode process. There are multiple choices you can make:
-  + GENERAL RENAMING (a.k.a responding "N" to "multi files"): The files in your specified folder will instantly change. 
-  + MULTI EPISODE RENAMING: "Multi Episodes" are TV episodes that are joined together, for example, Episode 1 and 2 are in one.mp4 file (ShowName-E01E02).
-  + If you declare "Y" to "multi episodes" you will be able to specify if all episodes are multi episodes for a fast rename, or specify how many "multi episodes" there are.
-  + If, for example, there are 2 .mp4 files that are "multi" ("Episode 1, Episode 2" is one file, "Episode 8, Episode 9" is another), you will type "2" when you are asked "How many multi episodes?"
-
-- Choosing Option 2 will run you through the Movie process. This is a bit more simple than the TV Episode process, in the sense that, there is only one option with 2 prompts: specifying movie name, and year of release.
-
-- If you ever make a mistake, you can always revert your changes by responding "Y" in the "Would you like to save your changes?" prompt
-
-# Contact Information
-                
+# Contact Information 
 https://twitter.com/hbkpancakes
-
 https://github.com/hbkpancakes
-
 hbkpancakes@protonmail.com
